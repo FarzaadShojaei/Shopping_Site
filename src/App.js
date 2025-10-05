@@ -14,6 +14,9 @@ function App() {
     <CartProvider>
       <Router>
         <div className="App">
+          <div className="site-title-banner">
+            Shopping is a Stage (Testing) Site
+          </div>
           <Header />
           <main>
             <Routes>
