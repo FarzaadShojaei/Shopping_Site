@@ -11,7 +11,7 @@ const Profile = () => {
     city: 'New York',
     state: 'NY',
     zipCode: '10001',
-    bio: 'I love shopping for quality products at great prices!'
+    bio: 'I love The shopping for quality products at great prices!'
   });
 
   const [contactForm, setContactForm] = useState({
